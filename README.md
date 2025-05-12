@@ -2,20 +2,6 @@
 
 This repository contains the implementation of an **Online Shopping Cart**, developed as part of the CSC500 course portfolio project. The project is divided into multiple milestones, each building upon the previous to create a fully functional shopping cart application in Python.
 
----
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Setup and Usage](#setup-and-usage)
-- [Example Outputs](#example-outputs)
-- [Milestones](#milestones)
-  - [Milestone 1](#milestone-1)
-  - [Milestone 2](#milestone-2)
-  - [Final Submission](#final-submission)
-- [License](#license)
-
----
 
 ## Project Overview
 
